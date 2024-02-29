@@ -1,8 +1,8 @@
-mod jlox;
+mod rlox;
 
 fn main() {
 
-    let lox = jlox::Lox::main_entry();
+    let lox = rlox::Lox::main_entry();
 
     lox;
 }
