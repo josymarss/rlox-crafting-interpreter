@@ -1,6 +1,6 @@
 # Rlox
 
-A Jlox interpreter implementation of Robert Nystron's book Crafting-Interpreter in Rust
+A Jlox interpreter implementation of Robert Nystrom's book Crafting-Interpreter in Rust
 
 ## Rodando localmente
 
